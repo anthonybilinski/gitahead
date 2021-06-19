@@ -10,6 +10,7 @@ add_library(git
   Diff.cpp
   Filter.cpp
   FilterList.cpp
+  GpgmeWrapper.cpp
   Id.cpp
   Index.cpp
   Object.cpp
