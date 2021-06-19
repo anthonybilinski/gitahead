@@ -30,6 +30,7 @@ add_library(git
 
 target_link_libraries(git
   git2
+  gpgme
   Qt5::Core
   Qt5::Network
 )
